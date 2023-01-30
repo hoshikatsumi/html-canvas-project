@@ -1,2 +1,2 @@
-# html-canvas-project
-A school project about making a canvas in HTML.
+# HTML Canvas Project
+Current project status: Already submitted
